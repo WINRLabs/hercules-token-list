@@ -1,0 +1,24 @@
+[
+  {
+    "chainId": 599,
+    "symbol": "TEST",
+    "name": "Test Token",
+    "address": "0xBFb222a09f6e00d485EE156cF12EA2CaE57159Ac",
+    "logoURI": "BASE_URL/assets/weth.svg",
+    "decimals": 18,
+    "isWNative": true,
+    "quote": "native",
+    "priceChartPair": "0x88e6A0c2dDD26FEEb64F039a2c41296FcB3f5640"
+  },
+  {
+    "chainId": 599,
+    "symbol": "USDC.m",
+    "name": "USDC Mock",
+    "address": "0x878Bd2B7DA79C500260867781f2198dDcA8Db516",
+    "logoURI": "BASE_URL/assets/usdt.svg",
+    "decimals": 18,
+    "isWNative": true,
+    "quote": "native",
+    "priceChartPair": "0x88e6A0c2dDD26FEEb64F039a2c41296FcB3f5640"
+  }
+]
