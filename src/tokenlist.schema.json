@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "Camelot Token List",
-  "description": "Schema for lists of tokens compatible with the Camelot Interface",
+  "title": "Hercules Token List",
+  "description": "Schema for lists of tokens compatible with the Hercules Interface",
   "definitions": {
     "Version": {
       "type": "object",

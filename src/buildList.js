@@ -10,7 +10,7 @@ module.exports = function buildList() {
   const parsed = version.split(".");
 
   return {
-    name: "Camelot default token list",
+    name: "Hercules default token list",
     timestamp: new Date().toISOString(),
     version: { major: +parsed[0], minor: +parsed[1], patch: +parsed[2], },
     tags: {},
