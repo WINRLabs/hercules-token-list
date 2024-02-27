@@ -1,80 +1,71 @@
 [
   {
-    "chainId": 599,
+    "chainId": 1088,
     "symbol": "USDC",
     "name": "USDC",
-    "address": "0x3CB3E7CDd5b28801e809f056c7212603Af85F94D",
+    "address": "0xea32a96608495e54156ae48931a7c20f0dcc1a21",
     "logoURI": "BASE_URL/assets/usdc.svg",
     "decimals": 6,
     "quote": "native"
   },
   {
-    "chainId": 599,
+    "chainId": 1088,
     "symbol": "USDT",
     "name": "USDT",
-    "address": "0x9bFeFe3215e75b74f62B1cbb1Fc094d59c2F2Ed6",
+    "address": "0xbb06dca3ae6887fabf931640f67cab3e3a16f4dc",
     "logoURI": "BASE_URL/assets/usdt.svg",
     "decimals": 6,
     "quote": "native"
   },
   {
-    "chainId": 599,
+    "chainId": 1088,
     "symbol": "WETH",
     "name": "Wrapped ETH",
-    "address": "0x6F009F6D56ecFA2130CB28bc55DcEAfBd0715872",
+    "address": "0x420000000000000000000000000000000000000a",
     "logoURI": "BASE_URL/assets/eth.svg",
     "isWNative": false,
     "decimals": 18,
     "quote": "native"
   },
   {
-    "chainId": 599,
-    "symbol": "DAI",
-    "name": "DAI",
-    "address": "0xe893F9932890013fb904dBC9A400EDB4Ad2cd793",
-    "logoURI": "BASE_URL/assets/dai.svg",
-    "decimals": 18,
-    "quote": "native"
-  },
-  {
-    "chainId": 599,
+    "chainId": 1088,
     "symbol": "TORCH",
     "name": "Torch",
-    "address": "0xa9246D4493FFdec0E8494c093f41366b083e6cB5",
+    "address": "0xBB6a3BcE7b3B3CAbe5fEbaC2e4a48F721d4E925b",
     "logoURI": "BASE_URL/assets/torch.svg",
     "decimals": 18,
     "quote": "native"
   },
   {
-    "chainId": 599,
+    "chainId": 1088,
     "symbol": "xTORCH",
     "name": "xTorch",
-    "address": "0xB0977297a6D9B5CeF4211C5E9F85771Bd7B58040",
+    "address": "0xCe65043bd6DF95263f80A3185Ff4b99B94347D0C",
     "logoURI": "BASE_URL/assets/xtorch.svg",
     "decimals": 18,
     "quote": "native"
   },
   {
-    "chainId": 599,
+    "chainId": 1088,
     "symbol": "xMETIS",
     "name": "xMetis",
-    "address": "0x5Bb7Acf0fe03ec2bb69270365A75efb3121392e4",
+    "address": "0xcA042eA7E9AA901C85d5afA5247a79E935dB4996",
     "logoURI": "BASE_URL/assets/xmetis.png",
     "decimals": 18,
     "quote": "native"
   },
   {
-    "chainId": 599,
+    "chainId": 1088,
     "symbol": "WMetis",
     "name": "WMetis",
-    "address": "0x577ddc8c1bb948cdcf123cd1f453be80875ec1f3",
+    "address": "0x75cb093e4d61d2a2e65d8e0bbb01de8d89b53481",
     "isWNative": true,
     "logoURI": "BASE_URL/assets/metis.png",
     "decimals": 18,
     "quote": "native"
   },
   {
-    "chainId": 599,
+    "chainId": 1088,
     "symbol": "METIS",
     "name": "Metis",
     "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
