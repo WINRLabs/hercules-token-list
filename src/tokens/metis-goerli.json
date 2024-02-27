@@ -23,7 +23,7 @@
     "name": "Wrapped ETH",
     "address": "0x6F009F6D56ecFA2130CB28bc55DcEAfBd0715872",
     "logoURI": "BASE_URL/assets/eth.svg",
-    "isWNative": true,
+    "isWNative": false,
     "decimals": 18,
     "quote": "native"
   },
@@ -38,19 +38,47 @@
   },
   {
     "chainId": 599,
-    "symbol": "DT",
-    "name": "Dev Token",
-    "address": "0x016f6F831012F006508058923B34F6e4C82fdE0e",
-    "logoURI": "BASE_URL/assets/df.svg",
+    "symbol": "TORCH",
+    "name": "Torch",
+    "address": "0xa9246D4493FFdec0E8494c093f41366b083e6cB5",
+    "logoURI": "BASE_URL/assets/torch.svg",
     "decimals": 18,
     "quote": "native"
   },
   {
     "chainId": 599,
-    "symbol": "GRAIL",
-    "name": "Grail",
-    "address": "0xBF374D31b579DB9fE292fBb9dE6144C45Da85E45",
-    "logoURI": "BASE_URL/assets/grail.svg",
+    "symbol": "xTORCH",
+    "name": "xTorch",
+    "address": "0xB0977297a6D9B5CeF4211C5E9F85771Bd7B58040",
+    "logoURI": "BASE_URL/assets/xtorch.svg",
+    "decimals": 18,
+    "quote": "native"
+  },
+  {
+    "chainId": 599,
+    "symbol": "xMETIS",
+    "name": "xMetis",
+    "address": "0x5Bb7Acf0fe03ec2bb69270365A75efb3121392e4",
+    "logoURI": "BASE_URL/assets/xmetis.png",
+    "decimals": 18,
+    "quote": "native"
+  },
+  {
+    "chainId": 599,
+    "symbol": "WMetis",
+    "name": "WMetis",
+    "address": "0x577ddc8c1bb948cdcf123cd1f453be80875ec1f3",
+    "isWNative": true,
+    "logoURI": "BASE_URL/assets/metis.png",
+    "decimals": 18,
+    "quote": "native"
+  },
+  {
+    "chainId": 599,
+    "symbol": "METIS",
+    "name": "Metis",
+    "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+    "logoURI": "BASE_URL/assets/metis.png",
     "decimals": 18,
     "quote": "native"
   }
