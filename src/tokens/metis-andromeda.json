@@ -1,0 +1,76 @@
+[
+  {
+    "chainId": 1088,
+    "symbol": "USDC",
+    "name": "USDC",
+    "address": "0xea32a96608495e54156ae48931a7c20f0dcc1a21",
+    "logoURI": "BASE_URL/assets/usdc.svg",
+    "decimals": 6,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "USDT",
+    "name": "USDT",
+    "address": "0xbb06dca3ae6887fabf931640f67cab3e3a16f4dc",
+    "logoURI": "BASE_URL/assets/usdt.svg",
+    "decimals": 6,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "WETH",
+    "name": "Wrapped ETH",
+    "address": "0x420000000000000000000000000000000000000a",
+    "logoURI": "BASE_URL/assets/eth.svg",
+    "isWNative": false,
+    "decimals": 18,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "TORCH",
+    "name": "Torch",
+    "address": "0xBB6a3BcE7b3B3CAbe5fEbaC2e4a48F721d4E925b",
+    "logoURI": "BASE_URL/assets/torch.svg",
+    "decimals": 18,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "xTORCH",
+    "name": "xTorch",
+    "address": "0xCe65043bd6DF95263f80A3185Ff4b99B94347D0C",
+    "logoURI": "BASE_URL/assets/xtorch.svg",
+    "decimals": 18,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "xMETIS",
+    "name": "xMetis",
+    "address": "0xcA042eA7E9AA901C85d5afA5247a79E935dB4996",
+    "logoURI": "BASE_URL/assets/xmetis.png",
+    "decimals": 18,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "WMetis",
+    "name": "WMetis",
+    "address": "0x75cb093e4d61d2a2e65d8e0bbb01de8d89b53481",
+    "isWNative": true,
+    "logoURI": "BASE_URL/assets/metis.png",
+    "decimals": 18,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "METIS",
+    "name": "Metis",
+    "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+    "logoURI": "BASE_URL/assets/metis.png",
+    "decimals": 18,
+    "quote": "native"
+  }
+]
