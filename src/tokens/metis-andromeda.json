@@ -27,6 +27,7 @@
     "logoURI": "BASE_URL/assets/eth.svg",
     "isWNative": false,
     "decimals": 18,
+    "common": true,
     "quote": "native"
   },
   {
