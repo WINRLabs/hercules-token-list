@@ -60,11 +60,20 @@
   },
   {
     "chainId": 1088,
-    "symbol": "WMetis",
+    "symbol": "WMETIS",
     "name": "Wrapped Metis",
     "address": "0x75cb093e4d61d2a2e65d8e0bbb01de8d89b53481",
     "isWNative": true,
     "logoURI": "BASE_URL/assets/metis.png",
+    "decimals": 18,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": " artMETIS",
+    "name": "Art Metis",
+    "address": "0x2583A2538272f31e9A15dD12A432B8C96Ab4821d",
+    "logoURI": "BASE_URL/assets/artMETIS.svg",
     "decimals": 18,
     "quote": "native"
   }
