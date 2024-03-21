@@ -70,8 +70,8 @@
   },
   {
     "chainId": 1088,
-    "symbol": " artMETIS",
-    "name": "Art Metis",
+    "symbol": "artMETIS",
+    "name": "Staked Metis Token",
     "address": "0x2583A2538272f31e9A15dD12A432B8C96Ab4821d",
     "logoURI": "BASE_URL/assets/artMETIS.svg",
     "decimals": 18,
