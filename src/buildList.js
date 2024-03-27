@@ -1,11 +1,17 @@
 const { version } = require("../package.json");
 require('dotenv').config()
 const metisAndromeda = require("./tokens/metis-andromeda.json");
+const metisGoerli = require("./tokens/metis-goerli.json");
 
-const BASE_URL = process.env.BASE_URL
+const BASE_URL = process.env.NODE_ENV == 'development' ? process.env.BASE_URL_DEV : process.env.BASE_URL;
 
 module.exports = function buildList() {
-  const tokens = [...metisAndromeda]
+  const tokens = [];
+  if (process.env.NODE_ENV == 'development') {
+    tokens.push(...metisGoerli)
+  } else {
+    tokens.push(...metisAndromeda)
+  }
   const processedTokens = JSON.parse(JSON.stringify(tokens).replace(/BASE_URL/g, BASE_URL))
   const parsed = version.split(".");
 
