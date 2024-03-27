@@ -1,8 +1,8 @@
 [
   {
     "chainId": 1088,
-    "symbol": "USDC",
-    "name": "USDC",
+    "symbol": "m.USDC",
+    "name": "m.USDC",
     "address": "0xea32a96608495e54156ae48931a7c20f0dcc1a21",
     "logoURI": "BASE_URL/assets/usdc.svg",
     "decimals": 6,
@@ -11,8 +11,8 @@
   },
   {
     "chainId": 1088,
-    "symbol": "USDT",
-    "name": "USDT",
+    "symbol": "m.USDT",
+    "name": "m.USDT",
     "address": "0xbb06dca3ae6887fabf931640f67cab3e3a16f4dc",
     "logoURI": "BASE_URL/assets/usdt.svg",
     "decimals": 6,
@@ -60,7 +60,7 @@
   },
   {
     "chainId": 1088,
-    "symbol": "WMETIS",
+    "symbol": "WMetis",
     "name": "Wrapped Metis",
     "address": "0x75cb093e4d61d2a2e65d8e0bbb01de8d89b53481",
     "isWNative": true,
